@@ -43,13 +43,10 @@ public class EventController {
 	
 	@PostMapping
 	public ResponseEntity<EventDTO> insert(@RequestBody @Valid EventDTO dto) throws Exception {
-		try {
-			dto = service.insert(dto);
-			URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(dto.getId()).toUri();
-			return ResponseEntity.created(uri).body(dto);
-		} catch (Exception e) {
-			throw new Exception(e);
-		}
+		dto = service.insert(dto);
+		URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(dto.getId()).toUri();
+		return ResponseEntity.created(uri).body(dto);
+
 	}
 
 //	@PutMapping(value = "/{id}")
