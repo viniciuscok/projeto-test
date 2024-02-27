@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21b0f491-d412-4785-8068-605006cc9059" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/config/AuthorizationServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/config/ResourceServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/dto/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/entities/Genre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/entities/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/entities/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/entities/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/resources/UserResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/resources/exceptions/FieldMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/resources/exceptions/OAuthCustomError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/resources/exceptions/ResourceExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/resources/exceptions/StandardError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/resources/exceptions/ValidationError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/services/exceptions/DatabaseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/services/exceptions/ForbiddenException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/services/exceptions/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/java/com/devsuperior/movieflix/services/exceptions/UnauthorizedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bds05-main 2/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
